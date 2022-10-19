@@ -18,3 +18,8 @@
  
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=foliet&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
+
+<div align="center">
+  <img src="https://api.githubtrends.io/user/svg/foliet/langs?time_range=one_year&include_private=false&theme=classic" alt="Most Used Languages" width="300" />
+  <img src="https://api.githubtrends.io/user/svg/foliet/repos?time_range=one_year&theme=classic" alt="Most Contributed Repositories" width="300" />
+</div>
