@@ -1,9 +1,17 @@
-### Hi! I'm foliet👋
+# Hi! I'm foliet👋
+
+## About 😊
 
 <div align="center">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
 </div>
 <br>
+
+Coding for 5 minutes, debugging for 2 hours.
+
+I am a student majoring in software engineering looking forward to participate in more open source project.
+
+## Metrics 👣
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
@@ -12,14 +20,9 @@
 <br>
 
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=foliet&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"></img>
+  <img src="https://api.githubtrends.io/user/svg/foliet/langs?time_range=one_year&include_private=true&theme=classic" alt="Most Used Languages" width="300" />
+  <img src="https://api.githubtrends.io/user/svg/foliet/repos?time_range=one_month&theme=classic" alt="Most Contributed Repositories" width="300" />
 </div>
-<br>
- 
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=foliet&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
 
-<div align="center">
-  <img src="https://api.githubtrends.io/user/svg/foliet/langs?time_range=one_year&include_private=false&theme=classic" alt="Most Used Languages" width="300" />
-  <img src="https://api.githubtrends.io/user/svg/foliet/repos?time_range=one_year&theme=classic" alt="Most Contributed Repositories" width="300" />
-</div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=foliet&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
